@@ -1,2 +1,2 @@
 # Instagram-clone-bootstrap
-(https://www.patika.dev/tr)
+https://app.patika.dev/july
